@@ -52,3 +52,7 @@ And end of game, you get a collage of the "art" everyone generated.
   - Second image generated
   - Third image generated
 - Round finish
+
+
+## Tomorrow
+https://nuxt.com/docs/examples/server/routes
